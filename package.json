@@ -2,6 +2,7 @@
   "name": "LibreChat",
   "version": "0.7.4-rc1",
   "description": "",
+  "private": true,
   "workspaces": [
     "api",
     "client",
